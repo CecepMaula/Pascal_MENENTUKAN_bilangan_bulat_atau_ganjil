@@ -1,0 +1,1 @@
+# Pascal_MENENTUKAN_bilangan_bulat_atau_ganjil
